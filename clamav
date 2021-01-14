@@ -1,0 +1,1 @@
+clamav ALL=(ALL) NOPASSWD: /usr/sbin/service cron start
